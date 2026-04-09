@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "AC-Storm-YT",
+        "email": "stormbotdev@outlook.com"
+    },
+    "records": {
+        "CNAME": "ac-storm-yt.github.io",
+        "TXT": "dh=326dce2e98a3fef90ec4b3a60ebebc5d64374170"
+    }
+}
